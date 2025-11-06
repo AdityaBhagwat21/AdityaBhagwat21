@@ -1,5 +1,46 @@
-# 💫 About Me:
-# 👋 Hi, I'm Aditya Bhagwat<br><br>I’m an AI and Machine Learning enthusiast passionate about building intelligent systems that integrate perception, reasoning, and decision-making. My work focuses on **Deep Learning, Computer Vision, and Multi-Modal AI**.<br><br>---<br><br> 🔭 Currently Working On<br>- Multi-Modal Swin Transformer for integrating visual and contextual features  <br>- Research on Agentic AI and reinforcement-driven architectures  <br><br>🌱 Currently Learning<br>- Advanced concepts in Generative Models, Prompt Engineering, and AI Research Methodology**<br><br> 👯 Looking to Collaborate On<br>- Research projects in Artificial Intelligence, Data Science, or Machine Learning  <br>- Open-source contributions related to vision transformers or agentic systems  <br><br> 💬 Ask Me About<br>- Deep Learning | AI Research | Computer Vision | NLP | Reinforcement Learning  <br><br>  <br><br>---<br><br>> “The best way to predict the future is to invent it.” — Alan Kay<br>
+# 💫 About Me
+
+## 👋 Hi, I'm Aditya Bhagwat  
+
+I’m an **Artificial Intelligence and Machine Learning** enthusiast passionate about developing systems that combine **perception, reasoning, and decision-making**.  
+My current focus lies in **Deep Learning, Computer Vision, and Multi-Modal AI**, leveraging modern transformer architectures and intelligent agentic models.
+
+---
+
+### 🔭 Current Work
+- 🧠 Developing **Multi-Modal Swin Transformer** models integrating visual and contextual data  
+- 🤖 Conducting research on **Agentic AI** and reinforcement-driven learning systems  
+- 🎓 Engaged in **academic research** and **teaching** in Deep Learning and Signal Processing  
+
+---
+
+### 🌱 Currently Exploring
+- **Generative Models** (Diffusion, LLMs, and Multimodal Transformers)  
+- **AI research methodology**  
+- Optimization strategies for **robust and interpretable AI systems**  
+
+---
+
+### 👯 Collaboration Interests
+- Research projects in **Artificial Intelligence**, **Data Science**, and **Deep Learning**  
+- Open-source contributions focused on **Vision Transformers** or **Reinforcement-based Agents**  
+
+---
+
+### 💬 Ask Me About
+- Deep Learning • AI Research • Computer Vision • NLP • Reinforcement Learning  
+
+---
+
+### 📫 Connect With Me
+- 📧 **Email:** [your.email@example.com]  
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile]  
+- 🎓 **Google Scholar:** [scholar.google.com/yourprofile]  
+- 🌐 **Portfolio:** [yourportfolio.link]  
+
+---
+
+> *“The best way to predict the future is to invent it.”* — **Alan Kay**
 
 
 ## 🌐 Socials:
